@@ -1,0 +1,28 @@
+html {
+  font-size: 62.5%;
+  color: #59556c;
+}
+
+a{
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    text-decoration: none;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+p{
+    text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-weight: normal;
+}
+
+.clear{
+    clear: both;
+}
+
